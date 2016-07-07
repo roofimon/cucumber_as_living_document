@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
   gem 'cucumber', '~> 2.4'
   gem 'rspec', '~> 3.5'
+  gem 'sinatra', '~> 1.4', '>= 1.4.7'
+  gem 'watir-webdriver', '~> 0.9.1'
